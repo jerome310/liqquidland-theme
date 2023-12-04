@@ -6,5 +6,4 @@
 
 # Shopify Creating Store Steps
 1) Use command shopify theme dev --store "your store name followed by having .myshopify.com"
-   
 Example: Connecting your store: shopify theme dev --store liquidland.myshopify.com
