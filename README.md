@@ -1,4 +1,4 @@
-# :wave: Shopify Clone Steps :wave:
+# Shopify Clone Steps
 1) Create a blank repo (Do not clone bernard repo into your project folder yet)
 2) Clone bernard github repo project and move all the files inside your project and delete his folder
 3) Use these commands: git init, git add ., git commit -m 'put a description', git push
