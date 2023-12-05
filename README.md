@@ -7,3 +7,6 @@
 # Shopify Creating Store Steps
 1) Use command shopify theme dev --store "your store name followed by having .myshopify.com"
 # Example: Connecting your store: shopify theme dev --store liquidland.myshopify.com
+
+# Shopify CLI Error
+IGNORE THAT VIDEO! It'll ignore your tailwind files which won't give you the css for it
