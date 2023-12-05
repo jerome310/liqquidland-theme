@@ -12,9 +12,9 @@
     {{ 'application.css' | asset_url | stylesheet_tag }}
     {{ 'application.js' | asset_url | script_tag }}
   </head>
-  <body>
+  <body class="bg-green-900 text-xl">
+    Jerome Young
     <main role="main">
-      My Name is Jerome
       {{ content_for_layout }}
     </main>
   </body>
