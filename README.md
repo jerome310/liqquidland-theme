@@ -12,3 +12,6 @@
 
 # Shopify CLI Error
 IGNORE THAT VIDEO! It'll ignore your tailwind files which won't give you the css for it
+
+# Tailwind CSS Command
+npx tailwindcss -i ./src/tailwind.css -o ./assets/application.css --watch 
